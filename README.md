@@ -4,8 +4,8 @@ Project done during Mitacs Globalink Research Internship 2018
 
 ## Description
 
-The project explores the visual acuity of fruitflies by investigating a theoretical model of its visual system.\\
-Its visual system has been found to be very similar to a architecture of a convolutional neural network, and \\
+The project explores the visual acuity of fruitflies by investigating a theoretical model of its visual system.\
+Its visual system has been found to be very similar to a architecture of a convolutional neural network, and \
 hence could be compared with existing networks, such as ResNet18, ZFNet,etc.
 
 ### Code Organisation
